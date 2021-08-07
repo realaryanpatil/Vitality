@@ -1,5 +1,5 @@
 # Vitality
-
+![DATA](https://img.shields.io/badge/language-Python-blue)
 ### What exactly is Vitality?
 #### Vitality is a AI- Based Diagnostic tool to predict if a patient is suffering from heart disease.
 #### It uses the K- Nearest Neighbours algorithm, a classification system which is perfect for predicting accurate values
